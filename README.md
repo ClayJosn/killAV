@@ -1,5 +1,4 @@
-# killAV
-Quickly turn off antivirus on the target computer
+
 # KillAV
 
 ###### Quickly turn off antivirus on the target computer
