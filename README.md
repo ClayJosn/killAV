@@ -1,4 +1,3 @@
-
 # KillAV
 
 ###### Quickly turn off antivirus on the target computer
@@ -12,6 +11,8 @@
 ###### @clayjosn
 
 ###### https://t.me/clayjosn
+
+**In order to prevent abuse, I increased the size of the test file to about 70MB. This can only be used for testing. If you need a smaller version or more features, please contact me by telegram.**
 
 ###### The following is a demonstration
 
