@@ -14,7 +14,7 @@
 
 **In order to prevent abuse, I increased the size of the test file to about 70MB. This can only be used for testing. If you need a smaller version or more features, please contact me by telegram.**
 
-The test version can be found here [https://github.com/ClayJosn/killAV/releases/tag/AV]()
+
 
 ###### The following is a demonstration
 
