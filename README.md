@@ -12,7 +12,7 @@ Added the system tray, even after turning off the antivirus, the original antivi
 
 
 
-Here I only uploaded the test version with Tinder turned off. If you need more features, please contact me by telegram
+Here I only uploaded the test version with Hongrong turned off. If you need more features, please contact me by telegram
 
 
 @clayjosn
